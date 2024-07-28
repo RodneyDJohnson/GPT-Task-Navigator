@@ -39,5 +39,7 @@ For information on updates, new features, or enhancements, please check [link to
 ### Visit Our Business Website
 For more information about our services, please visit our business website: [MedTrans & General Logistics LLC](https://www.medtransdelivery.com/)
 
+**Note:** Users need to have an active subscription to ChatGPT-4 to access these tools. The links provided will demonstrate the tools' functionality, but each user must log in with their own credentials to use the features.
+
 This project showcases the application of GPT-4 to automate and enhance task management processes, along with my skills in integrating advanced features into web platforms.
 
