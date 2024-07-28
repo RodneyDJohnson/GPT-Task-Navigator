@@ -25,18 +25,21 @@ Follow On-Screen Instructions: The user interface is designed to be intuitive. S
 
 Support
 For support and more information, users can contact Email: rdwightjohnson@outlook.com
-
 Legal
 Task Navigator and ActionExtractor are tools provided as part of the ChatGPT-4 subscription. Users are reminded to use these tools in compliance with applicable laws and regulations. The creators of Task Navigator and ActionExtractor are not responsible for misuse of the tools or for compliance with regulatory requirements.
-
 Feedback
-We value your feedback to improve Task Navigator and ActionExtractor. Please submit any feedback or suggestions via [feedback link or email].
-
+We value your feedback to improve Task Navigator and ActionExtractor. Please submit any feedback or suggestions via rdwightjohnson@outlook.com.
 Updates
 For information on updates, new features, or enhancements, please check [link to update log or website].
+
 ### Try It Live
 [ActionExtractor - Live Demo](https://chatgpt.com/g/g-AhNJ4xvvL-actionextractor)
 [Task Navigator - Live Demo](https://chatgpt.com/g/g-LK2uKgD65-task-navigator)
 
-This project showcases the application of GPT-4 to automate and enhance task management processes.
+### Visit Our Business Website
+For more information about our services, please visit our business website: [MedTrans & General Logistics LLC](https://www.medtransdelivery.com/)
+
+**Note:** Users need to have an active subscription to ChatGPT-4 to access these tools. The links provided will demonstrate the tools' functionality, but each user must log in with their own credentials to use the features.
+
+This project showcases the application of GPT-4 to automate and enhance task management processes, along with my skills in integrating advanced features into web platforms.
 
