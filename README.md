@@ -25,13 +25,10 @@ Follow On-Screen Instructions: The user interface is designed to be intuitive. S
 
 Support
 For support and more information, users can contact Email: rdwightjohnson@outlook.com
-
 Legal
 Task Navigator and ActionExtractor are tools provided as part of the ChatGPT-4 subscription. Users are reminded to use these tools in compliance with applicable laws and regulations. The creators of Task Navigator and ActionExtractor are not responsible for misuse of the tools or for compliance with regulatory requirements.
-
 Feedback
 We value your feedback to improve Task Navigator and ActionExtractor. Please submit any feedback or suggestions via rdwightjohnson@outlook.com].
-
 Updates
 For information on updates, new features, or enhancements, please check [link to update log or website].
 ### Try It Live
